@@ -1,0 +1,13 @@
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\obj\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.csprojAssemblyReference.cache
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\obj\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.AssemblyInfoInputs.cache
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\obj\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.AssemblyInfo.cs
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\obj\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.csproj.CoreCompileInputs.cache
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\bin\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.exe
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\bin\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.deps.json
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\bin\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.runtimeconfig.json
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\bin\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.runtimeconfig.dev.json
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\bin\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.dll
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\bin\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.pdb
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\obj\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.dll
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\obj\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.pdb
+H:\1PROJET SCHOOL\CeUAA11_2023_RijckaertTom\CeUAA11_2023_RijckaertTom\obj\Debug\netcoreapp3.1\CeUAA11_2023_RijckaertTom.genruntimeconfig.cache
